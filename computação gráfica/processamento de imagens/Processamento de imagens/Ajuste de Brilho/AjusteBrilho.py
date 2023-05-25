@@ -20,4 +20,4 @@ for x in range(largura):
         pixels[x, y] = (r, g, b)
 
 # Salva a imagem com o brilho ajustado
-imagem.save("caminho/para/imagem_com_brilho.jpg")
+imagem.save("imagem_com_brilho.jpg")
